@@ -1,0 +1,38 @@
+   *Important things to keep in mind for this course:
+     1) Pay attention during the class.
+     2) Before each class I will be sharing short videos and
+     the slides. It's a must that you go though those slides
+     and watch the videos in the #course-announcement channel
+     in Discord.
+     3) A lot of practice.
+     4) When practicing if you face any issues don't spend more
+     than 15 minutes , take a screenshot and post it in the
+     technical support channel.
+     ==========================================================
+   *Why are we here?
+     1) To be automation engineers.
+   *What do automation engineers do ?
+     *) They test software, but mainly you will be testing
+     websites and mobile apps by writing a piece of software
+     that will test the websites automatically.
+   *Why are we learning Java?
+     1) Java is a programming language that we will be using
+     to communicate with a computer so that we can guid a
+     computer to how to test a website automatically.
+   *How programming languages work?
+     They work in a very similar fashion to how human languages
+     work. There is grammar rules, vocabulary punctuation etc.
+   *What is IntelliJ?
+     IntelliJ is a software that we will be using to write java
+     code just like Microsoft Word to write common language.
+     Ut has many features like it can find and fix issues in
+     our code. It has many features like it can find and fix
+     issues in our code. It can suggest improvements. It can
+     assist you to organize your code and so many other things.
+   *What is a project in IntelliJ?
+     *) A project is nothing but a folder that we create to
+     organize our code just like we create folders on our
+     computer to organize files.
+
+
+
